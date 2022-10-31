@@ -1,1 +1,1 @@
-console.log(Happy Hacktoberfest 2021)
+console.log(Happy Hacktoberfest 2022)
